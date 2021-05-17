@@ -3,6 +3,5 @@ This is a program which I wrote to automate login and dm to friends from your co
 
 Below are the modules and the dependencies for this program  and don't forget to run chrome webdriver once and keep it in the same directory in which your code is
 ```python
-pip install selenium 
-```python
-pip install keyboard
+pip install selenium keyboard
+
